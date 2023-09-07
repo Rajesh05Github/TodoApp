@@ -1,0 +1,21 @@
+export default colors = {
+    black: "#2D3436",
+    blue: "#24A6D9",
+    lightBlue: "#A7CBD9",
+    white: "#FFFFFF",
+    red: "#FF0000",
+    maroon: "#800000",	
+ 	purple:	"#800080",
+ 	fuchsia:"#FF00FF",	
+ 	green:	'#008000',	
+ 	lime:	'#00FF00',	
+ 	olive:	'#808000',	
+    yellow:	'#FFFF00',	
+ 	navy:   '#000080',	
+ 	teal:	'#008080',	
+ 	aqua:	'#00FFFF',
+     dimgrey: "#696969",
+     gray: "#808080",
+     blueIm: "#ff7f50",
+     cyan: "#f5f5dc"
+};
